@@ -11,8 +11,8 @@ ILI9163TFT:
 
 
 NOKIA5110LCD:
-![Alt text](/images/img1.jpg?raw=true "")
+![Alt text](/images/img2.jpg?raw=true "")
 
 
 ILI9341TFT:
-![Alt text](/images/img1.jpg?raw=true "")
+![Alt text](/images/img3.jpg?raw=true "")
